@@ -149,8 +149,8 @@ export const content = {
     ],
   },
   Testimonials: {
-    // title: "Countdown",
-    // subtitle: "SEE YOU SOON!",
+    title: "Countdown",
+    subtitle: "SEE YOU SOON!",
     // testimonials_content: [
     //   {
     //     review:
