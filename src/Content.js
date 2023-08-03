@@ -56,7 +56,7 @@ export const content = {
   ],
   hero: {
     title: "Collaboration Run",
-    firstName: "Chhetaz",
+    firstName: "Cheetaz",
     LastName: "Running Squad",
     btnText: "Enroll Now",
     image: Hero_person,
