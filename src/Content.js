@@ -63,7 +63,7 @@ export const content = {
     hero_content: [
       {
         count: "06 August 2023",
-        text: "Sunday, 5.45 AM Onwards",
+        text: "Sunday, 5:45 AM Onwards",
       },
       // {
       //   count: "20+",
