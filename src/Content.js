@@ -63,7 +63,7 @@ export const content = {
     hero_content: [
       {
         count: "06 August 2023",
-        text: "Sunday, 5:45 AM Onwards",
+        text: "Sunday, 5:00 AM Onwards",
       },
       // {
       //   count: "20+",
@@ -92,7 +92,7 @@ export const content = {
       },
       {
         name: "Breakfast",
-        para: "07:00AM Onwards",
+        para: "06:45AM Onwards",
         logo: food,
       },
       // {
@@ -193,35 +193,35 @@ export const content = {
       {
         text: "Raja Khandelwal",
         icon: BsFillPersonFill,
-        link: "mailto:codeaprogram@gmail.com",
+        // link: "mailto:codeaprogram@gmail.com",
       },
       {
         text: 9831020874,
         icon: MdCall,
-        link: "mailto:codeaprogram@gmail.com",
+        // link: "mailto:codeaprogram@gmail.com",
       },
       {
         text: "Ajay Shah",
         icon: BsFillPersonFill,
-        link: "mailto:codeaprogram@gmail.com",
+        // link: "mailto:codeaprogram@gmail.com",
       },
       {
         // text: "Raja Khandelwal",
         text: 9883093710,
         icon: MdCall,
-        link: "mailto:codeaprogram@gmail.com",
+        // link: "mailto:codeaprogram@gmail.com",
       },
       {
         text: "Nikhil Ginoria",
         // text: 9831020874,
         icon: BsFillPersonFill,
-        link: "mailto:codeaprogram@gmail.com",
+        // link: "mailto:codeaprogram@gmail.com",
       },
       {
         // text: "Raja Khandelwal",
         text: 9836545930,
         icon: MdCall,
-        link: "mailto:codeaprogram@gmail.com",
+        // link: "mailto:codeaprogram@gmail.com",
       },
       // {
       //   text: "+91 1234 56778",
